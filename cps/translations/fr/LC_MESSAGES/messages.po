@@ -5689,31 +5689,31 @@ msgstr "Livre %(index)s sur %(range)s"
 
 #: cps/templates/detail.html:630
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 #: cps/templates/detail.html:635
 msgid "UUID"
-msgstr ""
+msgstr "UUID"
 
 #: cps/templates/detail.html:638
 msgid "UUID copied to clipboard"
-msgstr ""
+msgstr "UUID copié dans le presse-papiers"
 
 #: cps/templates/detail.html:639
 msgid "Unable to copy UUID"
-msgstr ""
+msgstr "Impossible de copier l'UUID"
 
 #: cps/templates/detail.html:640 cps/templates/detail.html:641
 msgid "Copy UUID"
-msgstr ""
+msgstr "Copier l'UUID"
 
 #: cps/templates/detail.html:646
 msgid "Date added"
-msgstr ""
+msgstr "Date d'ajout"
 
 #: cps/templates/detail.html:650
 msgid "Last modified"
-msgstr ""
+msgstr "Dernière modification"
 
 #: cps/templates/detail.html:655
 #, fuzzy
@@ -5728,7 +5728,7 @@ msgstr "Supprimer"
 #: cps/templates/detail.html:707 cps/templates/detail.html:708
 #: cps/templates/detail.html:1098
 msgid "Add tag"
-msgstr ""
+msgstr "Ajouter une balise"
 
 #: cps/templates/detail.html:721 cps/templates/listenmp3.html:111
 msgid "Published"
@@ -7212,19 +7212,21 @@ msgstr "Ajouter les valeurs de colonnes personnalisées autorisées/refusées"
 
 #: cps/templates/user_edit.html:359
 msgid "OPDS Catalog Order"
-msgstr ""
+msgstr "Tri du catalogue OPDS"
 
 #: cps/templates/user_edit.html:360
 msgid ""
 "Reorder the OPDS root catalog by listing entry IDs in the order you want. "
 "Unknown IDs are ignored and missing entries are appended automatically."
 msgstr ""
+"Réorganisez le catalogue racine OPDS en répertoriant les identifiants d'entrée dans l'ordre souhaité. "
+«Les identifiants inconnus sont ignorés et les entrées manquantes sont ajoutées automatiquement. »
 
 #: cps/templates/user_edit.html:368
 msgid ""
 "Drag to reorder OPDS root entries. Missing entries are appended "
 "automatically."
-msgstr ""
+msgstr "Faites glisser pour réorganiser les entrées racine OPDS. Les entrées manquantes sont automatiquement ajoutées."
 
 #: cps/templates/user_edit.html:377
 #, fuzzy
@@ -7233,7 +7235,7 @@ msgstr "Permissions"
 
 #: cps/templates/user_edit.html:378
 msgid "Configure what actions this user is allowed to perform."
-msgstr ""
+msgstr "Configurer quelles actions cet utilisateur est autorisé à réaliser"
 
 #: cps/templates/user_edit.html:433
 #, fuzzy
