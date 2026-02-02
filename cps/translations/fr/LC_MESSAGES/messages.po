@@ -43,7 +43,7 @@ msgstr "Statistiques"
 
 #: cps/admin.py:128
 msgid "Calibre database unavailable. Please reconfigure the library path."
-msgstr ""
+msgstr "La base Calibre est injoignable, reconfigurer son chemin d'accès SVP"
 
 #: cps/admin.py:179
 msgid "Server restarted, please reload page."
