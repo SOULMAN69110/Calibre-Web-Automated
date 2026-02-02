@@ -112,16 +112,16 @@ msgstr "Correspond à %(action)s"
 
 #: cps/admin.py:438
 msgid "No pending matches to reject"
-msgstr ""
+msgstr "Aucune correspondance à rejeter"
 
 #: cps/admin.py:444
 #, python-format
 msgid "Rejected %(count)s match(es)"
-msgstr ""
+msgstr "%(count)s de correspondances rejetées"
 
 #: cps/admin.py:481
 #, python-brace-format
-msgid ""
+msgid "Format pyton accolades"
 "Thumbnail cache refresh started for {} book(s). This may take a few minutes."
 msgstr ""
 "Actualisation du cache des vignettes lancée pour {} livre(s). Cela peut "
